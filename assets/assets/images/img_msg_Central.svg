@@ -1,0 +1,13 @@
+<svg width="183" height="46" viewBox="0 0 183 46" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#FFCB00" d="M70 0h113v46H70z"/>
+        <text font-family="Metropolis-Black, Metropolis" font-size="20" font-weight="800" fill="#000" transform="translate(70)">
+                        <tspan x="6" y="25">MESSAGE </tspan>
+                        <tspan x="7.39" y="44">CENTRAL</tspan>
+                    </text>
+        <g>
+            <path d="M39.333 43c-10.861 0-19.666-8.954-19.666-20S28.472 3 39.333 3h18.628a.6.6 0 0 1 .437 1.01l-4.826 5.136-.092-.04A20.111 20.111 0 0 1 59 23c0 11.046-8.805 20-19.667 20z" fill="#000"/>
+            <path d="M19.667 3c10.861 0 19.666 8.954 19.666 20s-8.805 20-19.666 20H1.039a.6.6 0 0 1-.437-1.01l4.826-5.136.092.04A20.111 20.111 0 0 1 0 23C0 11.954 8.805 3 19.667 3z" fill="#FFCB00"/>
+        </g>
+    </g>
+</svg>
